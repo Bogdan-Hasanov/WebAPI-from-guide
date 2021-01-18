@@ -52,9 +52,7 @@ namespace TodoApi.Controllers
             {
                 return BadRequest();
             }
-
-            //_context.Entry(todoItem).State = EntityState.Modified;
-
+            
             TodoItem todoItem = await _context.TodoItems.FindAsync(id);
             if (todoItem == null)
             {
@@ -71,7 +69,10 @@ namespace TodoApi.Controllers
             {
                 return NotFound();
             }
-
+            catch (DbUpdateException)
+            {
+                return Conflict();
+            }
             return NoContent();
         }
 
