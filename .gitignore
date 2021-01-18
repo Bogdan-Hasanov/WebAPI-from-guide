@@ -440,3 +440,8 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+TodoApi.Tests/obj/Debug/net5.0/TodoApi.Tests.pdb
+TodoApi.Tests/obj/Debug/net5.0/TodoApi.Tests.dll
+TodoApi.Tests/obj/Debug/net5.0/TodoApi.Tests.csprojAssemblyReference.cache
+TodoApi.Tests/obj/Debug/net5.0/ref/TodoApi.Tests.dll
+.vs/TodoApi/v16/.suo
