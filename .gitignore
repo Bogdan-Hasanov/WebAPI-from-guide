@@ -445,3 +445,5 @@ TodoApi.Tests/obj/Debug/net5.0/TodoApi.Tests.dll
 TodoApi.Tests/obj/Debug/net5.0/TodoApi.Tests.csprojAssemblyReference.cache
 TodoApi.Tests/obj/Debug/net5.0/ref/TodoApi.Tests.dll
 .vs/TodoApi/v16/.suo
+*.v2
+*.testlog
