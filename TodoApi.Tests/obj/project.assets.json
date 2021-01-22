@@ -2739,7 +2739,7 @@
       },
       "TodoApi/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.10",
@@ -9008,6 +9008,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

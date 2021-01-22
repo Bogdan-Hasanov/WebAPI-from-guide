@@ -447,3 +447,4 @@ TodoApi.Tests/obj/Debug/net5.0/ref/TodoApi.Tests.dll
 .vs/TodoApi/v16/.suo
 *.v2
 *.testlog
+.sonar/*
