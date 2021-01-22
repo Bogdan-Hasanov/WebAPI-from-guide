@@ -42,7 +42,8 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"testingorg-bogdan_WebAPI-from-guide" /o:"testingorg-bogdan" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.nunit.reportsPaths="TestResults/*.trx" /d:"sonar.verbose=true" /d:"sonar.cs.vscoveragexml.reportsPaths"="TestResults/**.coverage"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"testingorg-bogdan_WebAPI-from-guide" /o:"testingorg-bogdan" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.nunit.reportsPaths="/TodoApi.Tests/TestResults/*.trx" /d:"sonar.verbose=true" /d:"sonar.cs.opencover.reportsPaths"="/TodoApi.Tests/coverage.opencover.xml"
           dotnet build
-          dotnet test -l:trx
+          dotnet add .\TodoApi.Tests\TodoApi.Tests.csproj package coverlet.msbuild
+          dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover -l:trx
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
