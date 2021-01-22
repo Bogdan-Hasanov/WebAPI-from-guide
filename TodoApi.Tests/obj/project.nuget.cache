@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gVY97Qa/nKTRYJnknFc94EvGQfR95BpFU6nEJV28HOXT4H3qHvdnEl2CuQctO6x3e5dosVegEXZaxOyjA/f6mg==",
+  "dgSpecHash": "QKxmx+GrhGhtOPBwTSz22r0NTtaLVWjsqBzyIgpGR31zHsbkCKQlUTgDCQA/0SrIvr0rdvmdcg/u0Xz2Hfs2Ug==",
   "success": true,
   "projectFilePath": "C:\\Asp.netCore\\TodoApi\\TodoApi.Tests\\TodoApi.Tests.csproj",
   "expectedPackageFiles": [
