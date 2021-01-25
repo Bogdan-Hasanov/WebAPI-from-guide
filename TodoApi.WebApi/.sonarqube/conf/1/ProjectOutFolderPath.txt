@@ -1,0 +1,1 @@
+C:\Asp.netCore\TodoApi\TodoApi.WebApi\.sonarqube\out\1

@@ -1,0 +1,81 @@
+
+}TodoApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.cs: :("0*—
+0B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.cs< <(#Å
+Â
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.cs< <(#
+
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*Ø
+1B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.cs> >(/‰
+†
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.cs> >(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+2*±
+2B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csA R(ú
+÷
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csA A(%6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder°
+­
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csC C(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
+5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""º
+·
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csE I(6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"¸Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""
+
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csK K(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder‚
+ÿ
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csM M("6
+%60Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÝ
+Ú
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csO R(6
+%70Microsoft.AspNetCore.Builder.IApplicationBuilder"ÊMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*¢
+3B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csS	 S(	"Y
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csS S(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+TodoApi.Startup

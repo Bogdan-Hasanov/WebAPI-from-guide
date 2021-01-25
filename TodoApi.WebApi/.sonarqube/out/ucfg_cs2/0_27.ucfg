@@ -1,0 +1,49 @@
+
+6TodoApi.Controllers.TodoItemsController.GetTodoItems()Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csB (N"2*—
+0Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs ()Þ
+Û
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (! 
+%0TodoApi.Models.TodoContext"__id*U*S)
+'TodoApi.Controllers.TodoItemsController"&
+_contextTodoApi.Models.TodoContextá
+Þ
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(TodoApi.Models.TodoContext.TodoItems.get*"
+ 
+%0TodoApi.Models.TodoContextî
+ë
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (*
+%2System.Linq.IQueryable<T>"’System.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""™
+–
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (*
+%3$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""d
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (
+""*Ò
+1Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs	 (	"q
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (	
+implicit return*Ø
+2Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csP (Pr
+p
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csB (N
+%4"__entrypoint*
+0B+)
+'TodoApi.Controllers.TodoItemsController
