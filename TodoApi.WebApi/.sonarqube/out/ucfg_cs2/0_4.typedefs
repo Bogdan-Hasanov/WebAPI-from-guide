@@ -1,0 +1,14 @@
+Û
+TodoApi.Models.TodoItemobject0
+
+TodoItem()"TodoApi.Models.TodoItem.TodoItem()(
+Id.getTodoApi.Models.TodoItem.Id.get(
+Id.setTodoApi.Models.TodoItem.Id.set,
+Name.get TodoApi.Models.TodoItem.Name.get,
+Name.set TodoApi.Models.TodoItem.Name.set8
+IsComplete.get&TodoApi.Models.TodoItem.IsComplete.get8
+IsComplete.set&TodoApi.Models.TodoItem.IsComplete.set0
+
+Secret.get"TodoApi.Models.TodoItem.Secret.get0
+
+Secret.set"TodoApi.Models.TodoItem.Secret.set

@@ -1,0 +1,7 @@
+organization=testingorg-bogdan
+projectKey=testingorg-bogdan_WebAPI-from-guide
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.16650
+dashboardUrl=https://sonarcloud.io/dashboard?id=testingorg-bogdan_WebAPI-from-guide
+ceTaskId=AXc6VNkBKC1wJJvb9DYr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXc6VNkBKC1wJJvb9DYr

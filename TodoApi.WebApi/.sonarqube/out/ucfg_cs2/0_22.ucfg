@@ -1,0 +1,18 @@
+
+(TodoApi.Models.TodoContext.TodoItems.setM
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs0 (3"0*ð
+0M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs4 (4ì
+é
+M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs0 (4Y
+TodoApi.Models.TodoContext"9
+	TodoItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"¬
+M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs0 (4[*Y
+TodoApi.Models.TodoContext"9
+	TodoItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B
+TodoApi.Models.TodoContext

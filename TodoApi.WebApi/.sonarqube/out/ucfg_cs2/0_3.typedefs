@@ -1,0 +1,6 @@
+Î
+TodoApi.Models.TodoContext'Microsoft.EntityFrameworkCore.DbContextobjectÍ
+WTodoContext(Microsoft.EntityFrameworkCore.DbContextOptions<TodoApi.Models.TodoContext>)rTodoApi.Models.TodoContext.TodoContext(Microsoft.EntityFrameworkCore.DbContextOptions<TodoApi.Models.TodoContext>)9
+TodoContext()(TodoApi.Models.TodoContext.TodoContext()9
+TodoItems.get(TodoApi.Models.TodoContext.TodoItems.get9
+TodoItems.set(TodoApi.Models.TodoContext.TodoItems.set

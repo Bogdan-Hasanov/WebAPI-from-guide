@@ -1,0 +1,33 @@
+
+TodoApi.Program.Main(string[])B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs ("0*®
+0B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs ("Î
+Ë
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"+TodoApi.Program.CreateHostBuilder(string[])*"
+TodoApi.Program*
+
+argsstring[]àÝ
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()«
+¨
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*¢
+1B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs	 (	"Y
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (	
+implicit return:
+argsstring[]B"
+TodoApi.Program
