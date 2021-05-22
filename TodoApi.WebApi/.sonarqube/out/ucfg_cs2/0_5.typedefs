@@ -1,0 +1,9 @@
+•
+TodoApi.Models.TodoItemDTOobject9
+TodoItemDTO()(TodoApi.Models.TodoItemDTO.TodoItemDTO()+
+Id.get!TodoApi.Models.TodoItemDTO.Id.get+
+Id.set!TodoApi.Models.TodoItemDTO.Id.set/
+Name.get#TodoApi.Models.TodoItemDTO.Name.get/
+Name.set#TodoApi.Models.TodoItemDTO.Name.set;
+IsComplete.get)TodoApi.Models.TodoItemDTO.IsComplete.get;
+IsComplete.set)TodoApi.Models.TodoItemDTO.IsComplete.set

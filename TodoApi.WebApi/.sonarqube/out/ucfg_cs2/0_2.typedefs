@@ -1,0 +1,7 @@
+¸
+TodoApi.Startupobjectˆ
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)JTodoApi.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)°
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)^TodoApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)î
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)}TodoApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)6
+Configuration.get!TodoApi.Startup.Configuration.get6
+Configuration.set!TodoApi.Startup.Configuration.set

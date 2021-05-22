@@ -1,0 +1,36 @@
+
+WTodoApi.Controllers.TodoItemsController.TodoItemsController(TodoApi.Models.TodoContext)Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (""3*Û
+1Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs	 (	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*Ê
+0Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (ã
+à
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (S)
+'TodoApi.Controllers.TodoItemsController"&
+_contextTodoApi.Models.TodoContext"__id*'
+%
+contextTodoApi.Models.TodoContext*
+2*Ò
+2Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs	 (	"q
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs (	
+implicit return*ƒ
+3Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs7 (7œ
+™
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs ("
+%1"__entrypoint*'
+%
+contextTodoApi.Models.TodoContext*
+1:%
+contextTodoApi.Models.TodoContextB+)
+'TodoApi.Controllers.TodoItemsController

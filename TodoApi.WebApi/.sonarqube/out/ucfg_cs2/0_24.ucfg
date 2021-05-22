@@ -1,0 +1,24 @@
+
+rTodoApi.Models.TodoContext.TodoContext(Microsoft.EntityFrameworkCore.DbContextOptions<TodoApi.Models.TodoContext>)M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs ("1*W
+1M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs	 (	*
+0*è
+0M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.csB (Pµ
+≤
+M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.csB (Q
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*∏
+2M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs	 (	"d
+M
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B
+TodoApi.Models.TodoContext

@@ -1,0 +1,74 @@
+
+JTodoApi.Controllers.TodoItemsController.ItemToDTO(TodoApi.Models.TodoItem)\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csà# à(,"0*‘
+0\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csàC å(,üú
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csàC ç(	 
+%0TodoApi.Models.TodoItemDTO"TodoApi.Models.TodoItemDTOª
+∏
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csàG à(R
+
+%1void"(TodoApi.Models.TodoItemDTO.TodoItemDTO()*"
+ 
+%0TodoApi.Models.TodoItemDTO¥
+±
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csä ä(
+
+%2long"TodoApi.Models.TodoItem.Id.get*%
+#
+todoItemTodoApi.Models.TodoItem¬
+ø
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csä ä(
+
+%3long"!TodoApi.Models.TodoItemDTO.Id.set*"
+ 
+%0TodoApi.Models.TodoItemDTO*
+
+
+%2long∏
+µ
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csã ã( 
+%4string" TodoApi.Models.TodoItem.Name.get*%
+#
+todoItemTodoApi.Models.TodoItem»
+≈
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csã ã( 
+%5string"#TodoApi.Models.TodoItemDTO.Name.set*"
+ 
+%0TodoApi.Models.TodoItemDTO*
+
+%4stringº
+π
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cså å(,
+
+%6bool"&TodoApi.Models.TodoItem.IsComplete.get*%
+#
+todoItemTodoApi.Models.TodoItem 
+«
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cså å(,
+
+%7bool")TodoApi.Models.TodoItemDTO.IsComplete.set*"
+ 
+%0TodoApi.Models.TodoItemDTO*
+
+
+%6bool*
+1*÷
+1\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csç
+ ç(
+"s
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csç	 ç(
+
+implicit return:#
+todoItemTodoApi.Models.TodoItemB+")
+'TodoApi.Controllers.TodoItemsController

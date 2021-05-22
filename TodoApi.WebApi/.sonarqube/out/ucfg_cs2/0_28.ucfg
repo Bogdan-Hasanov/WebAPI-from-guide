@@ -1,0 +1,31 @@
+
++TodoApi.Program.CreateHostBuilder(string[])B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs# (4"0*ê
+0B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (õ
+ò
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]¯
+¬
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""w
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*¢
+1B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs ("Y
+B
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.cs (
+implicit return:
+argsstring[]B"
+TodoApi.Program

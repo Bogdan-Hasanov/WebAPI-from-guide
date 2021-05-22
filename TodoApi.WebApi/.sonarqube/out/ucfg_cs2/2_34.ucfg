@@ -1,0 +1,158 @@
+
+RTodoApi.Controllers.TodoItemsController.CreateTodoItem(TodoApi.Models.TodoItemDTO)Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csc5 c(C"2*˜
+0Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cse p("—”
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cse i(
+%0TodoApi.Models.TodoItem"TodoApi.Models.TodoItem°
+­
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cse e('
+
+%1void""TodoApi.Models.TodoItem.TodoItem()*
+
+%0TodoApi.Models.TodoItemÃ
+À
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csg g(3
+
+%2bool")TodoApi.Models.TodoItemDTO.IsComplete.get*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTOÂ
+¿
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csg g(3
+
+%3bool"&TodoApi.Models.TodoItem.IsComplete.set*
+
+%0TodoApi.Models.TodoItem*
+
+
+%2bool¿
+¼
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csh h('
+%4string"#TodoApi.Models.TodoItemDTO.Name.get*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTOÀ
+½
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csh h('
+%5string" TodoApi.Models.TodoItem.Name.set*
+
+%0TodoApi.Models.TodoItem*
+
+%4string«
+¨
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cse i(#
+todoItemTodoApi.Models.TodoItem"__id*
+
+%0TodoApi.Models.TodoItemÞ
+Û
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csj j( 
+%6TodoApi.Models.TodoContext"__id*U*S)
+'TodoApi.Controllers.TodoItemsController"&
+_contextTodoApi.Models.TodoContextá
+Þ
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csj j(2
+%7,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(TodoApi.Models.TodoContext.TodoItems.get*"
+ 
+%6TodoApi.Models.TodoContextÎË
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csj j(,G
+%8AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%7,Microsoft.EntityFrameworkCore.DbSet<TEntity>*%
+#
+todoItemTodoApi.Models.TodoItem2Add(TEntity)Þ
+Û
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csk k( 
+%9TodoApi.Models.TodoContext"__id*U*S)
+'TodoApi.Controllers.TodoItemsController"&
+_contextTodoApi.Models.TodoContextÌÉ
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csk k(-+
+%10$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*"
+ 
+%9TodoApi.Models.TodoContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)³
+°
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cso o(&
+%11long"TodoApi.Models.TodoItem.Id.get*%
+#
+todoItemTodoApi.Models.TodoItem¢
+Ÿ
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csp p(#!
+%12TodoApi.Models.TodoItemDTO"JTodoApi.Controllers.TodoItemsController.ItemToDTO(TodoApi.Models.TodoItem)*+")
+'TodoApi.Controllers.TodoItemsController*%
+#
+todoItemTodoApi.Models.TodoItemòï
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csm p($5
+%13.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"OMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string, object, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""*
+""*#
+!
+%12TodoApi.Models.TodoItemDTO2'CreatedAtAction(string, object, object)"•
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csm p(%7
+5
+%13.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*Ò
+1Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csq	 q(	"q
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csq q(	
+implicit return*¦	
+2Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csc\ c(\¡
+ž
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csc5 c(C
+%14"__entrypoint*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTOã
+à
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs`	 `(
+%15"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTOþ
+û
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csa	 a(;
+%16"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTOþ
+û
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csb	 b(>
+%17"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*+
+)
+todoItemDtoTodoApi.Models.TodoItemDTO³
+°
+Z
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cscD c([)
+todoItemDtoTodoApi.Models.TodoItemDTO"__annotation*
+
+%15*
+
+%16*
+
+%17*
+0:)
+todoItemDtoTodoApi.Models.TodoItemDTOB+)
+'TodoApi.Controllers.TodoItemsController

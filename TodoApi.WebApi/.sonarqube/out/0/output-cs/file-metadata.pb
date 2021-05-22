@@ -1,0 +1,10 @@
+Y
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csutf-8L
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoContext.csutf-8I
+@C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoItem.csutf-8L
+CC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Models\TodoItemDTO.csutf-8A
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Program.csutf-8A
+8C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Startup.csutf-8
+tC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.csutf-8h
+]C:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.csutf-8{
+pC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.csutf-8

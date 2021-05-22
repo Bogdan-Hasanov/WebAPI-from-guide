@@ -1,0 +1,39 @@
+
+<TodoApi.Controllers.TodoItemsController.TodoItemExists(long)\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.csƒ ƒ(#"0*ç
+0\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs… …(9à
+Ý
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs… …( 
+%0TodoApi.Models.TodoContext"__id*U*S)
+'TodoApi.Controllers.TodoItemsController"&
+_contextTodoApi.Models.TodoContextã
+à
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs… …(%2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(TodoApi.Models.TodoContext.TodoItems.get*"
+ 
+%0TodoApi.Models.TodoContextÌ
+É
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs… …(:
+
+%2bool"ƒSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""l
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs… …(;
+
+
+%2bool*Ö
+1\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs†	 †(	"s
+\
+PC:\Asp.netCore\TodoApi\TodoApi.WebApi\TodoApi\Controllers\TodoItemsController.cs† †(	
+implicit return:
+
+idlongB+)
+'TodoApi.Controllers.TodoItemsController
